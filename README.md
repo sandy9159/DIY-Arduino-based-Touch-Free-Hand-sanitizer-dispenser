@@ -10,10 +10,16 @@ n this current scenario of global outbreak, it is advised by WHO (world health o
 
 # COMPONENT USED
 
-Arduino Nano ( or any Arduino ).
-Ultrasonic Sensor ( HC-SR04)
-Servo Motor ( metal Geared Preferred ).
-Jumper Wires ( female to female )
+> Arduino Nano ( or any Arduino )
+
+
+> Ultrasonic Sensor ( HC-SR04)
+
+
+> Stepper Motor ( metal Geared Preferred )
+
+
+> Jumper Wires ( female to female )
 
 
 
@@ -43,23 +49,23 @@ For this project build, we will need a Microcontroller to control the Input and 
 
 Connections for this build is very simple !
 
-Sensor to Arduino:
+> Sensor to Arduino:
 
-Trigger to D10
+> Trigger to D10
 
-Echo to D11
+> Echo to D11
 
-Vcc to Vcc
+> Vcc to Vcc
 
-Gnd to Gnd
+> Gnd to Gnd
 
-Servo to Arduino:
+> Servo to Arduino:
 
-Signal to D9
+> Signal to D9
 
-Vcc to Vin
+> Vcc to Vin
 
-Gnd to Gnd
+> Gnd to Gnd
 
 I have made this project on Zero PCB but if you are planing for ant custom PCB there is good new for you.
 
